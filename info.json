@@ -1,0 +1,23 @@
+
+
+const users = [
+    {
+      email: "cuida2256@gmail.com",
+      hall-ticket: "239p1A0510",
+      name: "charanteja",
+      password: "alice123"
+    },
+    {
+      email: "bob@example.com",
+      hall-ticket: "HT202502",
+      name: "Bob Smith",
+      password: "bob456"
+    },
+    {
+      email: "carol@example.com",
+      hall-ticket: "HT202503",
+      name: "Carol Davis",
+      password: "carol789"
+    }
+  ];
+  
